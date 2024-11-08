@@ -1,0 +1,3 @@
+* Learnt ES6 features
+* Wrote medium article about ES6
+* Soloved Two sum using two pointers on leetcode  
