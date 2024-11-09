@@ -1,0 +1,3 @@
+* Learnt about DOM manipulation 
+* Solved Array DSA problems
+  
