@@ -1,0 +1,2 @@
+* Learnt about restapi and fetch
+* Solved string coding problems
